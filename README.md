@@ -10,10 +10,10 @@
 - :credit_card: My full name is **John Patrick Lachama Tagongtong** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
 - :school: I'm currently a student from **CSPC - CS**
 - :books: My major is **Information Technology**
-- :earth_asia: I'm living now in **CS, PH**
+- :earth_asia: I'm living now in ** Region V, PH**
 - :sweat_smile: I'm a newbie in coding :penguin:
 - :monocle_face: I'm interested in coding, sleeping, and watching film and reading random stuffs
-- :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
+- :thinking: My quote is ***" I know that I know nothing"*** 
 - :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
@@ -29,13 +29,13 @@
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="60px" height="50px"> About Some Stats
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuumipatty-tn&layout=compact&show_icon=true&theme=algolia" alt="yuumipatty-langs"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuumipatty&layout=compact&show_icon=true&theme=algolia" alt="yuumipatty-langs"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=yuumipatty&layout=compact&show_icon=true&theme=algolia" alt="yuumipatty-stats"/>
 </div>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=yuumipatty&theme=algolia&background=0d1117&hide_border=true" />
-  <!-- <img src="https://activity-graph.herokuapp.com/graph?username=yuumipatty-tn&theme=react-dark"/> -->
-  <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=yuumipatty-tn&theme=react-dark"/> -->
+  <!-- <img src="https://activity-graph.herokuapp.com/graph?username=yuumipatty&theme=react-dark"/> -->
+  <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=yuumipatty&theme=react-dark"/> -->
 </div>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px"> For More Information, Please Check Out or Connect Me Via
