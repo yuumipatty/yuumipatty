@@ -8,7 +8,7 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
 - :credit_card: My full name is **John Patrick Lachama Tagongtong** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
-- :school: I'm currently a student from **CSPC - CS**
+- :school: I'm currently studying as a College Student at **CSPC - CS**
 - :books: My major is **Information Technology**
 - :earth_asia: I'm living now in ** Region V, PH**
 - :sweat_smile: I'm a newbie in coding :penguin:
@@ -58,5 +58,5 @@
 </div>
 <!---
 yuumipatty/yuumipatty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes ---.
 --->
