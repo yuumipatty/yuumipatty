@@ -9,7 +9,7 @@
 
 - :credit_card: My full name is **John Patrick Lachama Tagongtong** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
 - :school: I'm currently studying as a College Student at **CSPC - CS**
-- :books: My major is **Information Technology**
+- :books: My major is **BS Information Technology**
 - :earth_asia: I'm living now in ** Region V, PH**
 - :sweat_smile: I'm a newbie in coding :penguin:
 - :monocle_face: I'm interested in coding, sleeping, and watching film and reading random stuffs
